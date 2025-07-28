@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+.venv.bak/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# CSV files (optional if you don't want to upload your items.csv)
+items.csv
